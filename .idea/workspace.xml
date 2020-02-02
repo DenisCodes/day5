@@ -51,6 +51,7 @@
       <updated>1580253762638</updated>
       <workItem from="1580253764656" duration="4278000" />
       <workItem from="1580493833245" duration="5055000" />
+      <workItem from="1580601688584" duration="711000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Setup Boilerplate for AFS and WebStorm">
       <created>1580260715393</created>
@@ -86,15 +87,19 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580498577895" />
-    <state x="585" y="117" key="CommitChangelistDialog2" timestamp="1580500243051">
+    <state x="585" y="117" width="749" height="808" key="CommitChangelistDialog2" timestamp="1580603075217">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="117" key="CommitChangelistDialog2/-1920.132.1920.1040/0.0.1920.1040/1920.-1.1920.1160@0.0.1920.1040" timestamp="1580260714793" />
-    <state x="585" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580500243051" />
+    <state x="585" y="117" width="749" height="808" key="CommitChangelistDialog2/-1920.132.1920.1040/0.0.1920.1040/1920.-1.1920.1160@0.0.1920.1040" timestamp="1580603075217" />
+    <state x="585" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580501472108" />
     <state x="740" y="262" key="FileChooserDialogImpl" timestamp="1580501453072">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580501453072" />
+    <state x="759" y="233" key="RollbackChangesDialog" timestamp="1580603074462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="233" key="RollbackChangesDialog/-1920.132.1920.1040/0.0.1920.1040/1920.-1.1920.1160@0.0.1920.1040" timestamp="1580603074462" />
     <state x="461" y="163" key="SettingsEditor" timestamp="1580260580289">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
