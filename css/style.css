@@ -5,22 +5,23 @@ html {
 }
 #wrapper {
     width: 1024px;
-    margin-left: auto;
-    margin-right: auto;
 }
 footer {
     text-align: center;
 }
-h1 {
+menu2 {
     font-size: 100%;
-    text-align: center;
+    float: right;
 }
-h2 {
-    font-size: 240%;
-    width: 960px;
-    text-align: center;
+text {
+    font-size: 100%;
+    width: 555px;
+    text-align: left;
+    float: left;
+    padding-left: 25px;
+    padding-rigth: 225px;
 }
-h3 {
+title {
     font-size: 100%;
 }
 menu {
