@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4a2d28a1-5825-43e8-b050-720b0ded57cb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/projects1.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/projects1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/projects2.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/projects2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +62,7 @@
       <workItem from="1580601688584" duration="1613000" />
       <workItem from="1581208481601" duration="5877000" />
       <workItem from="1581702726549" duration="1861000" />
-      <workItem from="1582066003173" duration="789000" />
+      <workItem from="1582066003173" duration="1401000" />
     </task>
     <task id="LOCAL-00001" summary="Task: Setup Boilerplate for AFS and WebStorm">
       <created>1580260715393</created>
@@ -102,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581214416120</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="work you bum">
+      <created>1582067999820</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582067999820</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,10 +131,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580498577895" />
-    <state x="585" y="117" width="749" height="808" key="CommitChangelistDialog2" timestamp="1581214415650">
+    <state x="585" y="117" width="749" height="808" key="CommitChangelistDialog2" timestamp="1582067998988">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="117" width="749" height="808" key="CommitChangelistDialog2/-1920.132.1920.1040/0.0.1920.1040/1920.-1.1920.1160@0.0.1920.1040" timestamp="1581214415650" />
+    <state x="585" y="117" width="749" height="808" key="CommitChangelistDialog2/-1920.132.1920.1040/0.0.1920.1040/1920.-1.1920.1160@0.0.1920.1040" timestamp="1582067998988" />
     <state x="585" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580501472108" />
     <state x="184" y="93" key="DiffContextDialog" timestamp="1580603116825">
       <screen x="0" y="0" width="1920" height="1040" />
