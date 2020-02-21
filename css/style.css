@@ -1,25 +1,35 @@
 html {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 12px;
+    font-size: 20px;
+    line-height: 34px;
 
 }
 #wrapper {
-    width: 1024px;
+    width: 1280px;
 }
 footer {
     text-align: center;
 }
 menu2 {
     font-size: 100%;
-    float: right;
+    float: left;
+    padding-left: 19px;
 }
 text {
-    font-size: 100%;
-    width: 555px;
+    font-size: 130%;
+    width: 900px;
     text-align: left;
     float: left;
-    padding-left: 25px;
-    padding-rigth: 225px;
+    padding-left: 30px;
+    padding-rigth: 30px;
+}
+textmain {
+    font-size: 130%;
+    width: 900px;
+    text-align: left;
+    float: left;
+    padding-left: 30px;
+    padding-rigth: 30px;
 }
 title {
     font-size: 100%;
@@ -29,4 +39,17 @@ menu {
 }
 menu li {
     display: inline;
+}
+#logo {
+    width: 420px;
+    padding-left: 21px;
+    padding-right: 21px;
+    float: left;
+    height: 280px;
+}
+#cat {
+    width: 900px;
+    padding-left: 160px;
+    padding-right: 30px;
+    height: 630px;
 }
